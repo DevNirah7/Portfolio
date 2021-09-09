@@ -28,11 +28,36 @@ h3
     font-size: 1.3rem;
 }
 
+.blog-cent
+{
+    text-align: center;
+}
+
 p
 {
     font-size: 1.2rem;
     
 }
+
+.p-home
+{
+margin-bottom: 1.75rem;
+}
+
+.p-proj
+{
+    text-align: center;
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.p-blogs
+{
+text-align: justify;
+margin-top: 2rem;
+margin-bottom: 2rem;
+}
+
 
 .container
 {
@@ -44,6 +69,11 @@ p
 {
     max-width: 600px;
     margin: auto;
+}
+
+.container-fluid
+{
+    text-align: justify;
 }
 
 .link
@@ -60,16 +90,6 @@ p
     margin: 1rem 1rem;
 }
 
-.p-home
-{
-margin-bottom: 1.75rem;
-}
-
-.p-proj
-{
-    margin-top: 1.5rem;
-    margin-bottom: 2rem;
-}
 
 .link-secondary
 {
@@ -80,6 +100,12 @@ margin-bottom: 1.75rem;
 
 }
 
+.link-centre
+{
+    margin: 0rem;
+    text-align: center;
+   
+}
 
 hr
 {
@@ -96,6 +122,7 @@ hr
     display: inline;
     padding: 0rem 0.5rem;
 }
+
 
 .navigation
 {
